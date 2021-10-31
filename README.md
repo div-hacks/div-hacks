@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @div-hacks
 - 👀 I’m interested in learning new techs
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Python, Django
+- 🌱 I’m currently learning DSA 
+- 💞️ I’m looking to collaborate on Python, Django, Reactjs
 - 📫 How to reach me divyanshusharmabb007@gmail.com
 
 <!---
